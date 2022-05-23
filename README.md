@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on 100+ projects
 - 🌱 I’m currently learning everything everywhere all at once
 - 👯 I’m looking to collaborate on stuff that makes money
